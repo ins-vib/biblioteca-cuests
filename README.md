@@ -1,2 +1,2 @@
 # PlantillaLandingBiblioteca
-Això es una plantilla per a fer una web d'una biblioteca.
+Aplicació per a la gestió de la Biblioteca del meu barri.
